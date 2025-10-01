@@ -1,0 +1,123 @@
+{
+    "eventType": 2,
+    "eventId": 34784968,
+    "marketId": "1.248350338",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": null,
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 0,
+    "totalMatched": 31374.85,
+    "totalMatchedInUSD": 29617.86,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-01 09:55",
+    "marketTimeStr": "01 Oct, 09:55",
+    "marketDateTime": 1759292700000,
+    "openDateDayOfWeek": "Wed",
+    "updateDate": "2025-10-01T12:10:40.699+0800",
+    "version": 6893612970,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 0,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 9202281,
+            "runnerName": "Caroline Dolehide",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-29T13:33:53.714+0800",
+            "oddsUpdateDate": 1759292495880,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.43,
+                    "size": 270.65
+                },
+                {
+                    "price": 1.42,
+                    "size": 80.13
+                },
+                {
+                    "price": 1.41,
+                    "size": 25.95
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 1.47,
+                    "size": 31.61
+                },
+                {
+                    "price": 1.48,
+                    "size": 402.55
+                },
+                {
+                    "price": 1.49,
+                    "size": 266.95
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 13074045,
+            "runnerName": "Moyuka Uchijima",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-29T13:33:51.535+0800",
+            "oddsUpdateDate": 1759292495880,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 3.15,
+                    "size": 11.98
+                },
+                {
+                    "price": 3.1,
+                    "size": 166.63
+                },
+                {
+                    "price": 3.05,
+                    "size": 96.54
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 3.35,
+                    "size": 121.48
+                },
+                {
+                    "price": 3.4,
+                    "size": 27.61
+                },
+                {
+                    "price": 3.45,
+                    "size": 10.61
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

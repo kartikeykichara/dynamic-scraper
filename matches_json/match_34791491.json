@@ -1,0 +1,103 @@
+{
+    "match_api_id": "34791491",
+    "match_title": "Bouzige v Cassone",
+    "sports_api_id": "2",
+    "sports_category_name": "cricket",
+    "tournament_api_id": "12762828",
+    "tournament_name": "Tiburon Challenger 2025",
+    "start_time": "2025-10-01T06:20:00Z",
+    "in_play": true,
+    "bet_locked": true,
+    "market": {
+        "op": "Wickspin",
+        "market_api_id": "1.248460358",
+        "market_title": "Match Odds",
+        "totalMatched": 28447.68,
+        "is_locked": false,
+        "visible": true,
+        "runners": [
+            {
+                "id": 26794136,
+                "name": "Murphy Cassone",
+                "back": [
+                    {
+                        "price": 1.06,
+                        "size": 1417.68,
+                        "line": null
+                    },
+                    {
+                        "price": 1.05,
+                        "size": 5895.02,
+                        "line": null
+                    },
+                    {
+                        "price": 1.04,
+                        "size": 4760.85,
+                        "line": null
+                    }
+                ],
+                "lay": [
+                    {
+                        "price": 1.07,
+                        "size": 2356.52,
+                        "line": null
+                    },
+                    {
+                        "price": 1.08,
+                        "size": 1394.9,
+                        "line": null
+                    },
+                    {
+                        "price": 1.09,
+                        "size": 1043.37,
+                        "line": null
+                    }
+                ],
+                "lastPriceTraded": 1.06,
+                "totalMatched": 12073.550000000001,
+                "status": "ACTIVE"
+            },
+            {
+                "id": 15313759,
+                "name": "Moerani Bouzige",
+                "back": [
+                    {
+                        "price": 16.5,
+                        "size": 25.09,
+                        "line": null
+                    },
+                    {
+                        "price": 15.0,
+                        "size": 140.5,
+                        "line": null
+                    },
+                    {
+                        "price": 14.5,
+                        "size": 13.28,
+                        "line": null
+                    }
+                ],
+                "lay": [
+                    {
+                        "price": 18.0,
+                        "size": 83.49,
+                        "line": null
+                    },
+                    {
+                        "price": 20.0,
+                        "size": 10.59,
+                        "line": null
+                    },
+                    {
+                        "price": 21.0,
+                        "size": 284.66,
+                        "line": null
+                    }
+                ],
+                "lastPriceTraded": 16.5,
+                "totalMatched": 178.87,
+                "status": "ACTIVE"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "eventType": 4,
+    "eventId": 34778301,
+    "marketId": "1.248491956",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": "GB",
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 35.35,
+    "totalMatchedInUSD": 33.37,
+    "numberOfRunners": 3,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 3,
+    "marketTime": "2025-10-01 09:30",
+    "marketTimeStr": "01 Oct, 09:30",
+    "marketDateTime": 1759291200000,
+    "openDateDayOfWeek": "Wed",
+    "updateDate": "2025-10-01T12:21:25.014+0800",
+    "version": 6893606733,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 8262359,
+            "runnerName": "Rest of India",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-10-01T01:37:37.878+0800",
+            "oddsUpdateDate": 1759292495871,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.45,
+                    "size": 6.24
+                },
+                {
+                    "price": 1.3,
+                    "size": 13.22
+                },
+                {
+                    "price": 1.2,
+                    "size": 10.4
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 7.8,
+                    "size": 1.49
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 60443,
+            "runnerName": "The Draw",
+            "sortPriority": 3,
+            "status": 1,
+            "updateDate": "2025-10-01T01:37:36.909+0800",
+            "oddsUpdateDate": 1759292495871,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.42,
+                    "size": 8.37
+                },
+                {
+                    "price": 1.4,
+                    "size": 6.58
+                },
+                {
+                    "price": 1.2,
+                    "size": 10.4
+                }
+            ],
+            "availableToLay": [],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 8023302,
+            "runnerName": "Vidarbha",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-10-01T01:37:38.545+0800",
+            "oddsUpdateDate": 1759292495871,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.75,
+                    "size": 5.82
+                },
+                {
+                    "price": 1.4,
+                    "size": 16.9
+                },
+                {
+                    "price": 1.2,
+                    "size": 10.4
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 6.2,
+                    "size": 1.49
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "eventType": 2,
+    "eventId": 34792649,
+    "marketId": "1.248470629",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": null,
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 2186.9,
+    "totalMatchedInUSD": 2064.44,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-01 09:00",
+    "marketTimeStr": "01 Oct, 09:00",
+    "marketDateTime": 1759289400000,
+    "openDateDayOfWeek": "Wed",
+    "updateDate": "2025-10-01T12:21:00.014+0800",
+    "version": 6893599697,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 67814941,
+            "runnerName": "Heliovaara/Patten",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-30T15:52:27.592+0800",
+            "oddsUpdateDate": 1759292495873,
+            "closeSite": null,
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.15,
+                    "size": 5.84
+                },
+                {
+                    "price": 1.02,
+                    "size": 14.86
+                },
+                {
+                    "price": 1.01,
+                    "size": 22.29
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 110.0,
+                    "size": 1.87
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 8715731,
+            "runnerName": "Khachanov/Rublev",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-30T15:52:27.588+0800",
+            "oddsUpdateDate": 1759292495873,
+            "closeSite": null,
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.15,
+                    "size": 5.84
+                },
+                {
+                    "price": 1.1,
+                    "size": 1.49
+                },
+                {
+                    "price": 1.02,
+                    "size": 15.09
+                }
+            ],
+            "availableToLay": [],
+            "tradedVolume": []
+        }
+    ]
+}

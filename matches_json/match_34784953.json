@@ -1,0 +1,103 @@
+{
+    "match_api_id": "34784953",
+    "match_title": "J Garland v L Bronzetti",
+    "sports_api_id": "2",
+    "sports_category_name": "cricket",
+    "tournament_api_id": "12762338",
+    "tournament_name": "WTA Suzhou 2025",
+    "start_time": "2025-10-01T09:10:00Z",
+    "in_play": true,
+    "bet_locked": true,
+    "market": {
+        "op": "Wickspin",
+        "market_api_id": "1.248350000",
+        "market_title": "Match Odds",
+        "totalMatched": 78672.17,
+        "is_locked": false,
+        "visible": true,
+        "runners": [
+            {
+                "id": 9631351,
+                "name": "Lucia Bronzetti",
+                "back": [
+                    {
+                        "price": 5.0,
+                        "size": 240.44,
+                        "line": null
+                    },
+                    {
+                        "price": 4.9,
+                        "size": 6.76,
+                        "line": null
+                    },
+                    {
+                        "price": 4.8,
+                        "size": 358.74,
+                        "line": null
+                    }
+                ],
+                "lay": [
+                    {
+                        "price": 5.1,
+                        "size": 6.45,
+                        "line": null
+                    },
+                    {
+                        "price": 5.2,
+                        "size": 164.02,
+                        "line": null
+                    },
+                    {
+                        "price": 5.3,
+                        "size": 95.41,
+                        "line": null
+                    }
+                ],
+                "lastPriceTraded": 5.0,
+                "totalMatched": 605.94,
+                "status": "ACTIVE"
+            },
+            {
+                "id": 11772894,
+                "name": "Joanna Garland",
+                "back": [
+                    {
+                        "price": 1.24,
+                        "size": 255.24,
+                        "line": null
+                    },
+                    {
+                        "price": 1.23,
+                        "size": 2272.91,
+                        "line": null
+                    },
+                    {
+                        "price": 1.22,
+                        "size": 31.49,
+                        "line": null
+                    }
+                ],
+                "lay": [
+                    {
+                        "price": 1.25,
+                        "size": 961.74,
+                        "line": null
+                    },
+                    {
+                        "price": 1.26,
+                        "size": 756.21,
+                        "line": null
+                    },
+                    {
+                        "price": 1.27,
+                        "size": 2659.12,
+                        "line": null
+                    }
+                ],
+                "lastPriceTraded": 1.24,
+                "totalMatched": 2559.64,
+                "status": "ACTIVE"
+            }
+        ]
+    }
+}

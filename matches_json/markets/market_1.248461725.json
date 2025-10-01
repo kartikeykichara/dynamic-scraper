@@ -1,0 +1,123 @@
+{
+    "eventType": 2,
+    "eventId": 34791603,
+    "marketId": "1.248461725",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": "US",
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 85730.0,
+    "totalMatchedInUSD": 80929.12,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-01 06:00",
+    "marketTimeStr": "01 Oct, 06:00",
+    "marketDateTime": 1759278600000,
+    "openDateDayOfWeek": "Wed",
+    "updateDate": "2025-10-01T12:21:20.033+0800",
+    "version": 6893501687,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+    "isLowLiquidity": false,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 8659524,
+            "runnerName": "Daniel Masur",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-30T09:01:51.761+0800",
+            "oddsUpdateDate": 1759292495873,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.6,
+                    "size": 6.49
+                },
+                {
+                    "price": 1.59,
+                    "size": 238.37
+                },
+                {
+                    "price": 1.58,
+                    "size": 118.6
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 1.62,
+                    "size": 502.21
+                },
+                {
+                    "price": 1.65,
+                    "size": 277.39
+                },
+                {
+                    "price": 1.66,
+                    "size": 137.37
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 19924836,
+            "runnerName": "Mitchell Krueger",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-30T09:01:49.031+0800",
+            "oddsUpdateDate": 1759292495873,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 2.6,
+                    "size": 312.91
+                },
+                {
+                    "price": 2.56,
+                    "size": 121.07
+                },
+                {
+                    "price": 2.52,
+                    "size": 77.26
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 2.68,
+                    "size": 3.87
+                },
+                {
+                    "price": 2.7,
+                    "size": 140.37
+                },
+                {
+                    "price": 2.74,
+                    "size": 68.39
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

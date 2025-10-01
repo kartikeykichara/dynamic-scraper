@@ -1,0 +1,123 @@
+{
+    "eventType": 2,
+    "eventId": 34788564,
+    "marketId": "1.248398741",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": null,
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 0,
+    "totalMatched": 18456.7,
+    "totalMatchedInUSD": 17423.13,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-01 10:00",
+    "marketTimeStr": "01 Oct, 10:00",
+    "marketDateTime": 1759293000000,
+    "openDateDayOfWeek": "Wed",
+    "updateDate": "2025-09-30T22:14:35.447+0800",
+    "version": 6892592349,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 0,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 10410236,
+            "runnerName": "Adam Walton",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-29T18:38:54.661+0800",
+            "oddsUpdateDate": 1759292495880,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 2.1,
+                    "size": 2.92
+                },
+                {
+                    "price": 2.08,
+                    "size": 58.25
+                },
+                {
+                    "price": 2.06,
+                    "size": 221.02
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 2.12,
+                    "size": 5.94
+                },
+                {
+                    "price": 2.14,
+                    "size": 182.12
+                },
+                {
+                    "price": 2.16,
+                    "size": 1016.67
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 20357619,
+            "runnerName": "Mattia Bellucci",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-29T18:38:53.226+0800",
+            "oddsUpdateDate": 1759292495880,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.89,
+                    "size": 17.38
+                },
+                {
+                    "price": 1.88,
+                    "size": 196.53
+                },
+                {
+                    "price": 1.87,
+                    "size": 528.73
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 1.9,
+                    "size": 3.22
+                },
+                {
+                    "price": 1.92,
+                    "size": 27.33
+                },
+                {
+                    "price": 1.93,
+                    "size": 53.42
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

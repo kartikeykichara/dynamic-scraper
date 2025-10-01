@@ -1,0 +1,123 @@
+{
+    "eventType": 2,
+    "eventId": 34781416,
+    "marketId": "1.248306989",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": null,
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 40150.54,
+    "totalMatchedInUSD": 37902.11,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-01 09:40",
+    "marketTimeStr": "01 Oct, 09:40",
+    "marketDateTime": 1759291800000,
+    "openDateDayOfWeek": "Wed",
+    "updateDate": "2025-10-01T12:17:05.014+0800",
+    "version": 6893622043,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 9952772,
+            "runnerName": "Suzan Lamens",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-29T13:36:45.553+0800",
+            "oddsUpdateDate": 1759292495879,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.23,
+                    "size": 433.04
+                },
+                {
+                    "price": 1.22,
+                    "size": 2938.17
+                },
+                {
+                    "price": 1.21,
+                    "size": 1664.34
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 1.25,
+                    "size": 581.78
+                },
+                {
+                    "price": 1.26,
+                    "size": 226.37
+                },
+                {
+                    "price": 1.27,
+                    "size": 897.89
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 60872296,
+            "runnerName": "Xinxin Yao",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-29T13:36:41.313+0800",
+            "oddsUpdateDate": 1759292495879,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 5.1,
+                    "size": 103.81
+                },
+                {
+                    "price": 5.0,
+                    "size": 39.56
+                },
+                {
+                    "price": 4.8,
+                    "size": 166.2
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 5.3,
+                    "size": 42.29
+                },
+                {
+                    "price": 5.4,
+                    "size": 164.59
+                },
+                {
+                    "price": 5.5,
+                    "size": 482.06
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

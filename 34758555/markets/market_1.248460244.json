@@ -1,0 +1,123 @@
+{
+    "eventType": 4,
+    "eventId": 34758555,
+    "marketId": "1.248460244",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": "AU",
+    "marketName": "Most Points",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 381.25,
+    "totalMatchedInUSD": 359.9,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-04 05:30",
+    "marketTimeStr": "04 Oct, 05:30",
+    "marketDateTime": 1759536000000,
+    "openDateDayOfWeek": "Sat",
+    "updateDate": "2025-10-04T13:41:45.005+0800",
+    "version": 6899241057,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 100.0
+    },
+    "selections": [
+        {
+            "selectionId": 17789455,
+            "runnerName": "Tasmania Tigers",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-30T07:22:20.928+0800",
+            "oddsUpdateDate": 1759556718887,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 2.5,
+                    "size": 29.35
+                },
+                {
+                    "price": 2.0,
+                    "size": 3.78
+                },
+                {
+                    "price": 1.94,
+                    "size": 4.47
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 7.8,
+                    "size": 3.2
+                },
+                {
+                    "price": 36.0,
+                    "size": 2.15
+                },
+                {
+                    "price": 110.0,
+                    "size": 2.66
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 17789456,
+            "runnerName": "Queensland Bulls",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-30T07:22:23.257+0800",
+            "oddsUpdateDate": 1759556718887,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.15,
+                    "size": 21.72
+                },
+                {
+                    "price": 1.05,
+                    "size": 2.06
+                },
+                {
+                    "price": 1.03,
+                    "size": 71.49
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 1.66,
+                    "size": 44.2
+                },
+                {
+                    "price": 1.75,
+                    "size": 1.79
+                },
+                {
+                    "price": 2.0,
+                    "size": 2.43
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

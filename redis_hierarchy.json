@@ -1,0 +1,101 @@
+{
+  "timestamp": "2025-10-17T12:40:09.029313",
+  "total_keys": 199,
+  "hierarchy": {
+    "tennis": {
+      "main_key": "in_play_tennis_premium",
+      "match_count": 27,
+      "premium_markets_count": 27,
+      "fancy_count": 2,
+      "odds_count": 52,
+      "total_matches": 0,
+      "total_size": 0,
+      "created_at": ""
+    },
+    "cricket": {
+      "main_key": "in_play_cricket_premium",
+      "match_count": 27,
+      "premium_markets_count": 27,
+      "fancy_count": 0,
+      "odds_count": 0,
+      "total_matches": 0,
+      "total_size": 0,
+      "created_at": ""
+    },
+    "soccer": {
+      "main_key": "in_play_soccer_premium",
+      "match_count": 13,
+      "premium_markets_count": 13,
+      "fancy_count": 0,
+      "odds_count": 0,
+      "total_matches": 0,
+      "total_size": 0,
+      "created_at": ""
+    }
+  },
+  "key_details": [
+    {
+      "key": "in_play_tennis_premium:match:34851837",
+      "type": "match",
+      "size": 1716,
+      "sport": "tennis",
+      "match_id": "34851837"
+    },
+    {
+      "key": "in_play_tennis_premium:match:-57565",
+      "type": "match",
+      "size": 678,
+      "sport": "tennis",
+      "match_id": "-57565"
+    },
+    {
+      "key": "in_play_tennis_premium:match:-57769",
+      "type": "match",
+      "size": 691,
+      "sport": "tennis",
+      "match_id": "-57769"
+    },
+    {
+      "key": "in_play_cricket_premium:match:-57118",
+      "type": "match",
+      "size": 674,
+      "sport": "cricket",
+      "match_id": "-57118"
+    },
+    {
+      "key": "in_play_cricket_premium:match:-51532",
+      "type": "match",
+      "size": 696,
+      "sport": "cricket",
+      "match_id": "-51532"
+    },
+    {
+      "key": "in_play_cricket_premium:match:-38043",
+      "type": "match",
+      "size": 692,
+      "sport": "cricket",
+      "match_id": "-38043"
+    },
+    {
+      "key": "in_play_soccer_premium:match:-57705",
+      "type": "match",
+      "size": 688,
+      "sport": "soccer",
+      "match_id": "-57705"
+    },
+    {
+      "key": "in_play_soccer_premium:match:-57619",
+      "type": "match",
+      "size": 687,
+      "sport": "soccer",
+      "match_id": "-57619"
+    },
+    {
+      "key": "in_play_soccer_premium:match:-57679",
+      "type": "match",
+      "size": 693,
+      "sport": "soccer",
+      "match_id": "-57679"
+    }
+  ]
+}

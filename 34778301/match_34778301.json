@@ -1,0 +1,213 @@
+{
+    "eventId": 34778301,
+    "isManualEvent": false,
+    "isManualEventClosed": false,
+    "endPointType": 1,
+    "eventType": 4,
+    "competitionId": 12691882,
+    "competitionName": "Irani Cup",
+    "competitionPriority": 2,
+    "countryCode": "GB",
+    "eventName": "Vidarbha v Rest of India",
+    "status": 4,
+    "scores": null,
+    "isShowScores": true,
+    "streamingChannel": "19314172",
+    "lmtMatchId": null,
+    "scoresDetail": null,
+    "matchInfo": null,
+    "timeElapsed": 0,
+    "priority": 999,
+    "openDate": "2025-10-04 09:30",
+    "openDateStr": "04 Oct, 09:30",
+    "openDateTime": 1759550400000,
+    "openDateDayOfWeek": 7,
+    "isToday": true,
+    "secondsToStart": 6630,
+    "inPlayStatus": null,
+    "isElectronic": 0,
+    "bookMode": null,
+    "competitionBookMode": null,
+    "closeSite": null,
+    "sponsorSite": null,
+    "competitionCloseSite": null,
+    "updateDate": 1759485794407,
+    "marketCount": 1,
+    "isInPlay": 1,
+    "hasFancyBetMarkets": false,
+    "hasInPlayFancyBetMarkets": false,
+    "hasBookMakerMarkets": false,
+    "hasInPlayBookMakerMarkets": false,
+    "hasDmFancyBetMarkets": false,
+    "hasDmBookMakerMarkets": false,
+    "hasSportsBookMarkets": false,
+    "hasGeniusSportsMarkets": true,
+    "sportradarApiSiteEventId": "",
+    "geniusSportsApiSiteEventId": "13125354",
+    "market": {
+        "eventType": 4,
+        "eventId": 34778301,
+        "marketId": "1.248491956",
+        "marketType": "MATCH_ODDS",
+        "bettingType": 1,
+        "countryCode": "GB",
+        "marketName": "Match Odds",
+        "status": 1,
+        "summaryStatus": 0,
+        "isHighLight": 1,
+        "inPlay": 1,
+        "totalMatched": 1911.89,
+        "totalMatchedInUSD": 1804.82,
+        "numberOfRunners": 3,
+        "numberOfWinners": 1,
+        "numberOfActiveRunners": 3,
+        "marketTime": "2025-10-04 09:30",
+        "marketTimeStr": "04 Oct, 09:30",
+        "marketDateTime": 1759550400000,
+        "openDateDayOfWeek": "Sat",
+        "updateDate": "2025-10-04T13:49:30.021+0800",
+        "version": 6899514652,
+        "closeSite": null,
+        "bookMode": null,
+        "disableBettingSite": "",
+        "autoDisableBettingSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+        "isLowLiquidity": true,
+        "isStreamingOpenTime": 1,
+        "isCashOutMarket": true,
+        "isUnmatchedModeMarket": false,
+        "isToday": true,
+        "betLimitSetting": {
+            "minBet": 1.0,
+            "maxBet": 50.0
+        },
+        
+        "selections": [
+            {
+                "selectionId": 8262359,
+                "runnerName": "Rest of India",
+                "sortPriority": 2,
+                "status": 1,
+                "updateDate": "2025-10-01T01:37:37.878+0800",
+                "oddsUpdateDate": 1759557030089,
+                "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 4.1,
+                        "size": 10.41
+                    },
+                    {
+                        "price": 3.65,
+                        "size": 11.81
+                    },
+                    {
+                        "price": 3.5,
+                        "size": 23.98
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 13.5,
+                        "size": 1.49
+                    },
+                    {
+                        "price": 15.0,
+                        "size": 1.77
+                    },
+                    {
+                        "price": 960.0,
+                        "size": 1.95
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 60443,
+                "runnerName": "The Draw",
+                "sortPriority": 3,
+                "status": 1,
+                "updateDate": "2025-10-01T01:37:36.909+0800",
+                "oddsUpdateDate": 1759557030089,
+                "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 2.66,
+                        "size": 7.56
+                    },
+                    {
+                        "price": 2.62,
+                        "size": 8.61
+                    },
+                    {
+                        "price": 2.36,
+                        "size": 1.7
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 4.9,
+                        "size": 25.84
+                    },
+                    {
+                        "price": 5.0,
+                        "size": 3.54
+                    },
+                    {
+                        "price": 8.2,
+                        "size": 5.26
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 8023302,
+                "runnerName": "Vidarbha",
+                "sortPriority": 1,
+                "status": 1,
+                "updateDate": "2025-10-01T01:37:38.545+0800",
+                "oddsUpdateDate": 1759557030089,
+                "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 1.66,
+                        "size": 35.43
+                    },
+                    {
+                        "price": 1.65,
+                        "size": 5.91
+                    },
+                    {
+                        "price": 1.56,
+                        "size": 5.91
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 1.81,
+                        "size": 23.58
+                    },
+                    {
+                        "price": 1.95,
+                        "size": 59.07
+                    },
+                    {
+                        "price": 1.99,
+                        "size": 47.97
+                    }
+                ],
+                "tradedVolume": []
+            }
+        ]
+    }
+}

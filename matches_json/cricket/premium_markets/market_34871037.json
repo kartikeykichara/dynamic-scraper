@@ -1,0 +1,22 @@
+{
+  "match_id": "34871037",
+  "match_title": "FC Kolkheti Poti v FC Telavi",
+  "markets": [
+    {
+      "market_id": "market_34871037",
+      "market_name": "Match Odds",
+      "runners": [
+        {
+          "runner_id": "1",
+          "runner_name": "Home",
+          "odds": "1.85"
+        },
+        {
+          "runner_id": "2",
+          "runner_name": "Away",
+          "odds": "1.95"
+        }
+      ]
+    }
+  ]
+}

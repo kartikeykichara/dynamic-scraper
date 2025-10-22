@@ -1,0 +1,123 @@
+{
+    "eventType": 4,
+    "eventId": 34758556,
+    "marketId": "1.248460245",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": "AU",
+    "marketName": "Most Points",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 251.18,
+    "totalMatchedInUSD": 237.11,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-04 08:00",
+    "marketTimeStr": "04 Oct, 08:00",
+    "marketDateTime": 1759545000000,
+    "openDateDayOfWeek": "Sat",
+    "updateDate": "2025-10-04T13:40:55.020+0800",
+    "version": 6899437186,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 100.0
+    },
+    "selections": [
+        {
+            "selectionId": 104483,
+            "runnerName": "Western Australia",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-09-30T07:24:24.838+0800",
+            "oddsUpdateDate": 1759557016896,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.22,
+                    "size": 18.36
+                },
+                {
+                    "price": 1.2,
+                    "size": 16.38
+                },
+                {
+                    "price": 1.1,
+                    "size": 31.27
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 2.18,
+                    "size": 30.39
+                },
+                {
+                    "price": 2.26,
+                    "size": 5.93
+                },
+                {
+                    "price": 6.0,
+                    "size": 4.02
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 4247309,
+            "runnerName": "New South Wales Blues",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-09-30T07:24:23.187+0800",
+            "oddsUpdateDate": 1759557016896,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.86,
+                    "size": 28.48
+                },
+                {
+                    "price": 1.85,
+                    "size": 7.17
+                },
+                {
+                    "price": 1.8,
+                    "size": 7.45
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 5.6,
+                    "size": 4.0
+                },
+                {
+                    "price": 6.0,
+                    "size": 3.28
+                },
+                {
+                    "price": 11.0,
+                    "size": 3.13
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

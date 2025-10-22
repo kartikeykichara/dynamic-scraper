@@ -1,0 +1,152 @@
+{
+    "eventType": 1,
+    "eventId": 34785392,
+    "marketId": "1.248357717",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": "JP",
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 21696.24,
+    "totalMatchedInUSD": 20481.25,
+    "numberOfRunners": 3,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 3,
+    "marketTime": "2025-10-04 10:00",
+    "marketTimeStr": "04 Oct, 10:00",
+    "marketDateTime": 1759552200000,
+    "openDateDayOfWeek": "Sat",
+    "updateDate": "2025-10-04T13:47:44.624+0800",
+    "version": 6899638777,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": true,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 500.0
+    },
+    "selections": [
+        {
+            "selectionId": 353589,
+            "runnerName": "Cerezo Osaka",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-10-01T18:18:37.263+0800",
+            "oddsUpdateDate": 1759557033457,
+            "closeSite": null,
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": true,
+            "availableToBack": [
+                {
+                    "price": 40.0,
+                    "size": 2.98
+                },
+                {
+                    "price": 9.0,
+                    "size": 16.38
+                },
+                {
+                    "price": 8.8,
+                    "size": 74.78
+                }
+            ],
+            "availableToLay": [],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 58805,
+            "runnerName": "The Draw",
+            "sortPriority": 3,
+            "status": 1,
+            "updateDate": "2025-10-01T18:18:37.267+0800",
+            "oddsUpdateDate": 1759557033457,
+            "closeSite": null,
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": true,
+            "availableToBack": [
+                {
+                    "price": 12.5,
+                    "size": 2.98
+                },
+                {
+                    "price": 6.8,
+                    "size": 20.85
+                },
+                {
+                    "price": 6.6,
+                    "size": 70.94
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 30.0,
+                    "size": 9.46
+                },
+                {
+                    "price": 36.0,
+                    "size": 4.56
+                },
+                {
+                    "price": 95.0,
+                    "size": 1.6
+                }
+            ],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 441084,
+            "runnerName": "Nagoya",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-10-01T18:18:37.259+0800",
+            "oddsUpdateDate": 1759557033457,
+            "closeSite": null,
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [
+                {
+                    "price": 1.06,
+                    "size": 1.49
+                },
+                {
+                    "price": 1.05,
+                    "size": 30.96
+                },
+                {
+                    "price": 1.04,
+                    "size": 146.06
+                }
+            ],
+            "availableToLay": [
+                {
+                    "price": 1.12,
+                    "size": 33.24
+                },
+                {
+                    "price": 1.19,
+                    "size": 307.08
+                },
+                {
+                    "price": 1.21,
+                    "size": 67.69
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

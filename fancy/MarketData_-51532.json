@@ -1,0 +1,17 @@
+{
+    "dmFancyBetMarkets": [],
+    "dmFancyBetEvent": {
+        "eventType": 4,
+        "apiSiteEventId": 1758734203,
+        "eventName": "Boland v Titans",
+        "eventUpdateDate": 1759068691297,
+        "closeSite": null,
+        "mappingStatus": 1,
+        "mappingUpdateDate": 1758780797472,
+        "highlightMarketId": "-51887",
+        "min": 1,
+        "max": 9800,
+        "limitUpdateDate": 1718870592266
+    },
+    "version": 1760689901091
+}

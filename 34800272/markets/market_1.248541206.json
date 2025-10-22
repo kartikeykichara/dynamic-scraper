@@ -1,0 +1,97 @@
+{
+    "eventType": 2,
+    "eventId": 34800272,
+    "marketId": "1.248541206",
+    "marketType": "MATCH_ODDS",
+    "bettingType": 1,
+    "countryCode": null,
+    "marketName": "Match Odds",
+    "status": 1,
+    "summaryStatus": 0,
+    "isHighLight": 1,
+    "inPlay": 1,
+    "totalMatched": 290980.41,
+    "totalMatchedInUSD": 274685.51,
+    "numberOfRunners": 2,
+    "numberOfWinners": 1,
+    "numberOfActiveRunners": 2,
+    "marketTime": "2025-10-04 10:00",
+    "marketTimeStr": "04 Oct, 10:00",
+    "marketDateTime": 1759552200000,
+    "openDateDayOfWeek": "Sat",
+    "updateDate": "2025-10-04T13:49:45.004+0800",
+    "version": 6899556316,
+    "closeSite": null,
+    "bookMode": null,
+    "disableBettingSite": "",
+    "autoDisableBettingSite": null,
+    "isLowLiquidity": false,
+    "isStreamingOpenTime": 1,
+    "isCashOutMarket": true,
+    "isUnmatchedModeMarket": false,
+    "isToday": true,
+    "betLimitSetting": {
+        "minBet": 1.0,
+        "maxBet": 50.0
+    },
+    "selections": [
+        {
+            "selectionId": 9635538,
+            "runnerName": "Camilo Ugo Carabelli",
+            "sortPriority": 1,
+            "status": 1,
+            "updateDate": "2025-10-02T14:09:46.928+0800",
+            "oddsUpdateDate": 1759557038456,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": true,
+            "availableToBack": [
+                {
+                    "price": 100.0,
+                    "size": 626.07
+                },
+                {
+                    "price": 55.0,
+                    "size": 5.52
+                },
+                {
+                    "price": 50.0,
+                    "size": 29.79
+                }
+            ],
+            "availableToLay": [],
+            "tradedVolume": []
+        },
+        {
+            "selectionId": 10706482,
+            "runnerName": "Alex De Minaur",
+            "sortPriority": 2,
+            "status": 1,
+            "updateDate": "2025-10-02T14:09:44.593+0800",
+            "oddsUpdateDate": 1759557038456,
+            "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+            "suspendSite": null,
+            "bookMode": "[\"0\"]",
+            "bookSuspend": null,
+            "isAutoSuspend": false,
+            "availableToBack": [],
+            "availableToLay": [
+                {
+                    "price": 1.01,
+                    "size": 61692.52
+                },
+                {
+                    "price": 1.02,
+                    "size": 2049.99
+                },
+                {
+                    "price": 1.03,
+                    "size": 2.64
+                }
+            ],
+            "tradedVolume": []
+        }
+    ]
+}

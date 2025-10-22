@@ -1,0 +1,16 @@
+{
+  "match_id": "34871037",
+  "fancy_name": "Fancy market for 34871037",
+  "selections": [
+    {
+      "id": "f1",
+      "name": "FancyA",
+      "price": "1.2"
+    },
+    {
+      "id": "f2",
+      "name": "FancyB",
+      "price": "2.3"
+    }
+  ]
+}

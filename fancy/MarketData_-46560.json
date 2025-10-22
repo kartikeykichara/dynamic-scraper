@@ -1,0 +1,17 @@
+{
+    "dmFancyBetMarkets": [],
+    "dmFancyBetEvent": {
+        "eventType": 4,
+        "apiSiteEventId": 1757208972,
+        "eventName": "South Africa A V New Zealand A",
+        "eventUpdateDate": 1757498461255,
+        "closeSite": null,
+        "mappingStatus": 1,
+        "mappingUpdateDate": 1757229407668,
+        "highlightMarketId": "-46915",
+        "min": 1,
+        "max": 9800,
+        "limitUpdateDate": 1718870592266
+    },
+    "version": 1760689898499
+}

@@ -1,0 +1,170 @@
+{
+    "eventId": 34758557,
+    "isManualEvent": false,
+    "isManualEventClosed": false,
+    "endPointType": 1,
+    "eventType": 4,
+    "competitionId": 11569227,
+    "competitionName": "Sheffield Shield",
+    "competitionPriority": 4,
+    "countryCode": "AU",
+    "eventName": "South Australia Redbacks v Victoria",
+    "status": 4,
+    "scores": null,
+    "isShowScores": true,
+    "streamingChannel": "19313179",
+    "lmtMatchId": null,
+    "scoresDetail": null,
+    "matchInfo": null,
+    "timeElapsed": 0,
+    "priority": 999,
+    "openDate": "2025-10-04 06:00",
+    "openDateStr": "04 Oct, 06:00",
+    "openDateTime": 1759537800000,
+    "openDateDayOfWeek": 7,
+    "isToday": true,
+    "secondsToStart": 19213,
+    "inPlayStatus": null,
+    "isElectronic": 0,
+    "bookMode": null,
+    "competitionBookMode": null,
+    "closeSite": null,
+    "sponsorSite": null,
+    "competitionCloseSite": "[\"99\", \"18\", \"17\", \"19\"]",
+    "updateDate": 1759526349967,
+    "marketCount": 1,
+    "isInPlay": 1,
+    "hasFancyBetMarkets": false,
+    "hasInPlayFancyBetMarkets": false,
+    "hasBookMakerMarkets": false,
+    "hasInPlayBookMakerMarkets": false,
+    "hasDmFancyBetMarkets": false,
+    "hasDmBookMakerMarkets": false,
+    "hasSportsBookMarkets": false,
+    "hasGeniusSportsMarkets": true,
+    "sportradarApiSiteEventId": "",
+    "geniusSportsApiSiteEventId": "12752615",
+    "market": {
+        "eventType": 4,
+        "eventId": 34758557,
+        "marketId": "1.248460243",
+        "marketType": "MATCH_ODDS",
+        "bettingType": 1,
+        "countryCode": "AU",
+        "marketName": "Most Points",
+        "status": 1,
+        "summaryStatus": 0,
+        "isHighLight": 1,
+        "inPlay": 1,
+        "totalMatched": 55.04,
+        "totalMatchedInUSD": 51.96,
+        "numberOfRunners": 2,
+        "numberOfWinners": 1,
+        "numberOfActiveRunners": 2,
+        "marketTime": "2025-10-04 06:00",
+        "marketTimeStr": "04 Oct, 06:00",
+        "marketDateTime": 1759537800000,
+        "openDateDayOfWeek": "Sat",
+        "updateDate": "2025-10-04T10:12:10.004+0800",
+        "version": 6899269310,
+        "closeSite": null,
+        "bookMode": null,
+        "disableBettingSite": "",
+        "autoDisableBettingSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+        "isLowLiquidity": true,
+        "isStreamingOpenTime": 1,
+        "isCashOutMarket": true,
+        "isUnmatchedModeMarket": false,
+        "isToday": true,
+        "betLimitSetting": {
+            "minBet": 1.0,
+            "maxBet": 100.0
+        },
+        "selections": [
+            {
+                "selectionId": 104487,
+                "runnerName": "Victoria",
+                "sortPriority": 2,
+                "status": 1,
+                "updateDate": "2025-09-30T07:24:01.250+0800",
+                "oddsUpdateDate": 1759557013219,
+                "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 1.8,
+                        "size": 5.14
+                    },
+                    {
+                        "price": 1.5,
+                        "size": 1.49
+                    },
+                    {
+                        "price": 1.37,
+                        "size": 9.85
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 4.4,
+                        "size": 1.64
+                    },
+                    {
+                        "price": 4.6,
+                        "size": 3.65
+                    },
+                    {
+                        "price": 6.0,
+                        "size": 3.28
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 86351,
+                "runnerName": "South Australia",
+                "sortPriority": 1,
+                "status": 1,
+                "updateDate": "2025-09-30T07:24:03.365+0800",
+                "oddsUpdateDate": 1759557013219,
+                "closeSite": "[\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\"]",
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 1.5,
+                        "size": 1.49
+                    },
+                    {
+                        "price": 1.3,
+                        "size": 3.04
+                    },
+                    {
+                        "price": 1.27,
+                        "size": 13.21
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 2.26,
+                        "size": 4.09
+                    },
+                    {
+                        "price": 3.7,
+                        "size": 4.39
+                    },
+                    {
+                        "price": 6.0,
+                        "size": 4.17
+                    }
+                ],
+                "tradedVolume": []
+            }
+        ]
+    }
+}

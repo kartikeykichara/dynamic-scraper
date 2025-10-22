@@ -1,0 +1,212 @@
+{
+    "eventId": 34785308,
+    "isManualEvent": false,
+    "isManualEventClosed": false,
+    "endPointType": 1,
+    "eventType": 1,
+    "competitionId": 89,
+    "competitionName": "Japanese J League",
+    "competitionPriority": 5,
+    "countryCode": "JP",
+    "eventName": "Shimizu v FC Tokyo",
+    "status": 4,
+    "scores": "{\"home\":{\"name\":\"Shimizu\",\"score\":\"1\",\"halfTimeScore\":\"1\",\"fullTimeScore\":\"\",\"penaltiesScore\":\"\",\"penaltiesSequence\":[],\"games\":\"\",\"sets\":\"\",\"numberOfYellowCards\":1,\"numberOfRedCards\":0,\"numberOfCards\":1,\"numberOfCorners\":1,\"numberOfCornersFirstHalf\":1,\"numberOfCornersSecondHalf\":0,\"bookingPoints\":10},\"away\":{\"name\":\"FC Tokyo\",\"score\":\"1\",\"halfTimeScore\":\"0\",\"fullTimeScore\":\"\",\"penaltiesScore\":\"\",\"penaltiesSequence\":[],\"games\":\"\",\"sets\":\"\",\"numberOfYellowCards\":0,\"numberOfRedCards\":0,\"numberOfCards\":0,\"numberOfCorners\":4,\"numberOfCornersFirstHalf\":3,\"numberOfCornersSecondHalf\":1,\"bookingPoints\":0},\"numberOfYellowCards\":1,\"numberOfRedCards\":0,\"numberOfCards\":1,\"numberOfCorners\":5,\"numberOfCornersFirstHalf\":4,\"numberOfCornersSecondHalf\":1,\"bookingPoints\":10}",
+    "isShowScores": true,
+    "streamingChannel": "19299146",
+    "lmtMatchId": null,
+    "scoresDetail": "[{\"updateTime\":\"2025-10-04T04:03:05.017Z\",\"updateId\":9,\"matchTime\":1,\"elapsedRegularTime\":1,\"type\":\"KickOff\",\"updateType\":\"KickOff\"},{\"updateTime\":\"2025-10-04T04:36:15.887Z\",\"updateId\":54,\"team\":\"home\",\"teamName\":\"Shimizu\",\"matchTime\":34,\"elapsedRegularTime\":34,\"type\":\"Goal\",\"updateType\":\"Goal\"},{\"updateTime\":\"2025-10-04T04:49:13.191Z\",\"updateId\":67,\"matchTime\":46,\"elapsedRegularTime\":45,\"elapsedAddedTime\":1,\"type\":\"FirstHalfEnd\",\"updateType\":\"FirstHalfEnd\"},{\"updateTime\":\"2025-10-04T05:04:05.196Z\",\"updateId\":70,\"matchTime\":46,\"elapsedRegularTime\":46,\"type\":\"SecondHalfKickOff\",\"updateType\":\"SecondHalfKickOff\"},{\"updateTime\":\"2025-10-04T05:18:38.979Z\",\"updateId\":87,\"team\":\"home\",\"teamName\":\"Shimizu\",\"matchTime\":60,\"elapsedRegularTime\":60,\"type\":\"YellowCard\",\"updateType\":\"YellowCard\"},{\"updateTime\":\"2025-10-04T05:34:47.515Z\",\"updateId\":101,\"team\":\"away\",\"teamName\":\"FC Tokyo\",\"matchTime\":76,\"elapsedRegularTime\":76,\"type\":\"Goal\",\"updateType\":\"Goal\"}]",
+    "matchInfo": null,
+    "timeElapsed": 85,
+    "priority": 999,
+    "openDate": "2025-10-04 09:30",
+    "openDateStr": "04 Oct, 09:30",
+    "openDateTime": 1759550400000,
+    "openDateDayOfWeek": 7,
+    "isToday": true,
+    "secondsToStart": 6623,
+    "inPlayStatus": "In-Play",
+    "isElectronic": 0,
+    "bookMode": null,
+    "competitionBookMode": null,
+    "closeSite": null,
+    "sponsorSite": null,
+    "competitionCloseSite": null,
+    "updateDate": 1759313914880,
+    "marketCount": 2,
+    "isInPlay": 1,
+    "hasFancyBetMarkets": false,
+    "hasInPlayFancyBetMarkets": false,
+    "hasBookMakerMarkets": false,
+    "hasInPlayBookMakerMarkets": false,
+    "hasDmFancyBetMarkets": false,
+    "hasDmBookMakerMarkets": false,
+    "hasSportsBookMarkets": false,
+    "hasGeniusSportsMarkets": true,
+    "sportradarApiSiteEventId": "",
+    "geniusSportsApiSiteEventId": "11719440",
+    "market": {
+        "eventType": 1,
+        "eventId": 34785308,
+        "marketId": "1.248356130",
+        "marketType": "MATCH_ODDS",
+        "bettingType": 1,
+        "countryCode": "JP",
+        "marketName": "Match Odds",
+        "status": 1,
+        "summaryStatus": 0,
+        "isHighLight": 1,
+        "inPlay": 1,
+        "totalMatched": 45414.99,
+        "totalMatchedInUSD": 42871.75,
+        "numberOfRunners": 3,
+        "numberOfWinners": 1,
+        "numberOfActiveRunners": 3,
+        "marketTime": "2025-10-04 09:30",
+        "marketTimeStr": "04 Oct, 09:30",
+        "marketDateTime": 1759550400000,
+        "openDateDayOfWeek": "Sat",
+        "updateDate": "2025-10-04T13:34:55.167+0800",
+        "version": 6899620383,
+        "closeSite": null,
+        "bookMode": null,
+        "disableBettingSite": "",
+        "autoDisableBettingSite": null,
+        "isLowLiquidity": false,
+        "isStreamingOpenTime": 1,
+        "isCashOutMarket": true,
+        "isUnmatchedModeMarket": false,
+        "isToday": true,
+        "betLimitSetting": {
+            "minBet": 1.0,
+            "maxBet": 500.0
+        },
+        "selections": [
+            {
+                "selectionId": 350849,
+                "runnerName": "FC Tokyo",
+                "sortPriority": 2,
+                "status": 1,
+                "updateDate": "2025-10-01T18:18:34.899+0800",
+                "oddsUpdateDate": 1759557022647,
+                "closeSite": null,
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 7.0,
+                        "size": 33.67
+                    },
+                    {
+                        "price": 6.4,
+                        "size": 4.2
+                    },
+                    {
+                        "price": 6.0,
+                        "size": 1.84
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 11.0,
+                        "size": 1.99
+                    },
+                    {
+                        "price": 12.0,
+                        "size": 8.03
+                    },
+                    {
+                        "price": 16.0,
+                        "size": 1.49
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 58805,
+                "runnerName": "The Draw",
+                "sortPriority": 3,
+                "status": 1,
+                "updateDate": "2025-10-01T18:18:34.903+0800",
+                "oddsUpdateDate": 1759557022647,
+                "closeSite": null,
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 1.22,
+                        "size": 78.95
+                    },
+                    {
+                        "price": 1.2,
+                        "size": 5.9
+                    },
+                    {
+                        "price": 1.19,
+                        "size": 10.2
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 1.24,
+                        "size": 191.34
+                    },
+                    {
+                        "price": 1.25,
+                        "size": 19.44
+                    },
+                    {
+                        "price": 1.26,
+                        "size": 5.96
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 441086,
+                "runnerName": "Shimizu",
+                "sortPriority": 1,
+                "status": 1,
+                "updateDate": "2025-10-01T18:18:34.894+0800",
+                "oddsUpdateDate": 1759557022647,
+                "closeSite": null,
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": true,
+                "availableToBack": [
+                    {
+                        "price": 10.5,
+                        "size": 12.28
+                    },
+                    {
+                        "price": 10.0,
+                        "size": 47.49
+                    },
+                    {
+                        "price": 9.8,
+                        "size": 19.21
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 19.0,
+                        "size": 12.57
+                    },
+                    {
+                        "price": 21.0,
+                        "size": 6.09
+                    },
+                    {
+                        "price": 25.0,
+                        "size": 2.61
+                    }
+                ],
+                "tradedVolume": []
+            }
+        ]
+    }
+}

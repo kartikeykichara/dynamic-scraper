@@ -1,0 +1,215 @@
+{
+    "market": {
+        "eventType": 4,
+        "eventId": 34807931,
+        "marketId": "1.248622840",
+        "marketType": "MATCH_ODDS",
+        "bettingType": 1,
+        "countryCode": "GB",
+        "marketName": "Match Odds",
+        "status": 1,
+        "summaryStatus": 0,
+        "isHighLight": 1,
+        "inPlay": 1,
+        "totalMatched": 2548801.69,
+        "totalMatchedInUSD": 2406068.8,
+        "numberOfRunners": 3,
+        "numberOfWinners": 1,
+        "numberOfActiveRunners": 3,
+        "marketTime": "2025-10-10 09:30",
+        "marketTimeStr": "10 Oct, 09:30",
+        "marketDateTime": 1760068800000,
+        "openDateDayOfWeek": "Fri",
+        "updateDate": "2025-10-10T18:30:05.019+0800",
+        "version": 6911898637,
+        "closeSite": null,
+        "bookMode": null,
+        "disableBettingSite": "",
+        "autoDisableBettingSite": null,
+        "isLowLiquidity": false,
+        "isStreamingOpenTime": 1,
+        "isCashOutMarket": true,
+        "isUnmatchedModeMarket": true,
+        "isToday": true,
+        "betLimitSetting": {
+            "minBet": 1.0,
+            "maxBet": 1000.0
+        },
+        "selections": [
+            {
+                "selectionId": 414464,
+                "runnerName": "India",
+                "sortPriority": 1,
+                "status": 1,
+                "updateDate": "2025-10-10T17:01:39.420+0800",
+                "oddsUpdateDate": 1760092210584,
+                "closeSite": null,
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": false,
+                "availableToBack": [
+                    {
+                        "price": 1.01,
+                        "size": 153913.78
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 1.02,
+                        "size": 33679.63
+                    },
+                    {
+                        "price": 1.03,
+                        "size": 98159.22
+                    },
+                    {
+                        "price": 1.04,
+                        "size": 45640.39
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 60443,
+                "runnerName": "The Draw",
+                "sortPriority": 3,
+                "status": 1,
+                "updateDate": "2025-10-10T17:01:35.316+0800",
+                "oddsUpdateDate": 1760092210584,
+                "closeSite": null,
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": true,
+                "availableToBack": [
+                    {
+                        "price": 60.0,
+                        "size": 267.53
+                    },
+                    {
+                        "price": 55.0,
+                        "size": 538.82
+                    },
+                    {
+                        "price": 50.0,
+                        "size": 14.02
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 65.0,
+                        "size": 154.68
+                    },
+                    {
+                        "price": 70.0,
+                        "size": 30.5
+                    },
+                    {
+                        "price": 75.0,
+                        "size": 53.68
+                    }
+                ],
+                "tradedVolume": []
+            },
+            {
+                "selectionId": 235,
+                "runnerName": "West Indies",
+                "sortPriority": 2,
+                "status": 1,
+                "updateDate": "2025-10-10T17:01:37.461+0800",
+                "oddsUpdateDate": 1760092210584,
+                "closeSite": null,
+                "suspendSite": null,
+                "bookMode": "[\"0\"]",
+                "bookSuspend": null,
+                "isAutoSuspend": true,
+                "availableToBack": [
+                    {
+                        "price": 230.0,
+                        "size": 43.71
+                    },
+                    {
+                        "price": 220.0,
+                        "size": 1.47
+                    },
+                    {
+                        "price": 210.0,
+                        "size": 1.47
+                    }
+                ],
+                "availableToLay": [
+                    {
+                        "price": 240.0,
+                        "size": 1.47
+                    },
+                    {
+                        "price": 250.0,
+                        "size": 1.6
+                    },
+                    {
+                        "price": 260.0,
+                        "size": 4.51
+                    }
+                ],
+                "tradedVolume": []
+            }
+        ]
+    },
+    "betfairGameProductStatus": true,
+    "betfairWebSiteGameProductStatus": true,
+    "sportradarGameProductStatus": false,
+    "sportradarWebSiteGameProductStatus": false,
+    "dmFancyBetGameProductStatus": true,
+    "dmFancyPlusGameProductStatus": true,
+    "dmFancyBetWebSiteGameProductStatus": true,
+    "dmFancyPlusWebSiteGameProductStatus": true,
+    "dmBookMakerGameProductStatus": true,
+    "dmBookMakerWebSiteGameProductStatus": true,
+    "fancyBetGameProductStatus": false,
+    "fancyBetWebSiteGameProductStatus": false,
+    "bookMakerGameProductStatus": false,
+    "bookMakerWebSiteGameProductStatus": false,
+    "geniusSportsGameProductStatus": true,
+    "geniusSportsWebSiteGameProductStatus": true,
+    "messageType": 2,
+    "eventType": 4,
+    "eventId": 34807931,
+    "eventName": "India v West Indies",
+    "closeSite": null,
+    "sponsorSite": "[\"17\"]",
+    "competitionCloseSite": null,
+    "bookMode": null,
+    "competitionName": "Test Matches",
+    "competitionBookMode": null,
+    "competitionId": 11365612,
+    "status": 4,
+    "marketId": "1.248622840",
+    "selectionTs": 1760092210584,
+    "countryCode": "GB",
+    "scores": "{\"home\":{\"name\":\"India\",\"halfTimeScore\":\"\",\"fullTimeScore\":\"\",\"penaltiesScore\":\"\",\"penaltiesSequence\":[],\"highlight\":true,\"inning1\":{\"runs\":\"281\",\"wickets\":\"2\",\"overs\":\"79.5\"}},\"away\":{\"name\":\"West Indies\",\"halfTimeScore\":\"\",\"fullTimeScore\":\"\",\"penaltiesScore\":\"\",\"penaltiesSequence\":[],\"highlight\":false},\"currentSet\":1,\"matchStatus\":\"InPlay\",\"currentDay\":\"1\",\"matchType\":\"TEST\"}",
+    "scoresDetail": null,
+    "isShowScores": true,
+    "livescores": null,
+    "matchInfo": null,
+    "timeElapsed": 0,
+    "lmtMatchId": null,
+    "lmtTypeName": "match.lmtPlus",
+    "streamingChannel": "19319470",
+    "hasFancyBetMarkets": false,
+    "hasSportradarEventMapping": false,
+    "hasBookMakerMarkets": false,
+    "hasDMFancyBetEventMapping": true,
+    "hasDMBookMakerEventMapping": true,
+    "hasDmFancyBetMarkets": true,
+    "hasDmBookMakerMarkets": true,
+    "hasGeniusSportsEventMapping": true,
+    "geniusSportsApiSiteEventId": "12744932",
+    "isEnableLiveMatchTracker": true,
+    "cashOutStatus": false,
+    "cashOutLimitStatus": false,
+    "isEnableUnmatchedMode": false,
+    "isWebSiteEnableUnmatchedMode": true,
+    "unmatchedModeAcceptableOddsPercentage": "{\"1\":\"10\",\"2\":\"10\",\"4\":\"10\",\"5\":\"10\",\"7\":\"10\",\"4339\":\"10\",\"6423\":\"10\",\"7522\":\"10\",\"2378961\":\"10\"}",
+    "unmatchedModeMaxOdds": "{\"0\":{\"1\":\"9\",\"2\":\"9\",\"4\":\"14\"}}"
+}
